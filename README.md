@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhasBoloor
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning javascript, React.js
+- 🌱 I’m currently learning javascript, React.js, Node.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me suhasboloormlr@gmail.com
 
